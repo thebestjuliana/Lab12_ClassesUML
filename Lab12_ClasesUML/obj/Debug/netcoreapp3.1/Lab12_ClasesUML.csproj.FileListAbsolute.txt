@@ -1,0 +1,13 @@
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\obj\Debug\netcoreapp3.1\Lab12_ClasesUML.csprojAssemblyReference.cache
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\obj\Debug\netcoreapp3.1\Lab12_ClasesUML.AssemblyInfoInputs.cache
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\obj\Debug\netcoreapp3.1\Lab12_ClasesUML.AssemblyInfo.cs
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\obj\Debug\netcoreapp3.1\Lab12_ClasesUML.csproj.CoreCompileInputs.cache
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\bin\Debug\netcoreapp3.1\Lab12_ClasesUML.exe
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\bin\Debug\netcoreapp3.1\Lab12_ClasesUML.deps.json
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\bin\Debug\netcoreapp3.1\Lab12_ClasesUML.runtimeconfig.json
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\bin\Debug\netcoreapp3.1\Lab12_ClasesUML.runtimeconfig.dev.json
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\bin\Debug\netcoreapp3.1\Lab12_ClasesUML.dll
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\bin\Debug\netcoreapp3.1\Lab12_ClasesUML.pdb
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\obj\Debug\netcoreapp3.1\Lab12_ClasesUML.dll
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\obj\Debug\netcoreapp3.1\Lab12_ClasesUML.pdb
+C:\Users\sheeh\source\repos\Lab12_ClasesUML\Lab12_ClasesUML\obj\Debug\netcoreapp3.1\Lab12_ClasesUML.genruntimeconfig.cache
